@@ -1,23 +1,28 @@
-h1 {
+header {
     text-align: center;
     font-size: 500%
 
 }
 
-section.gallery {
-    margin: 5px;
+h6 {
+  font-size: 40%
+}
+
+article.gallery {
+    margin: 80px;
     border: 1px solid #ccc;
     float: left;
     width: 300px;
+    height: 350px;
   }
   
-section.gallery:hover {
+article.gallery:hover {
     border: 1px solid #777;
   }
   
-  section.gallery img {
-    width: 100%;
-    height: auto;
+article.gallery img {
+    width: 200px;
+    height: 180px;
   }
   
 
