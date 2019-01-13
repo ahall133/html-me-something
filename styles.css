@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 500%
+
+}
+
+section.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+  }
+  
+section.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  section.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+
+    
+  
