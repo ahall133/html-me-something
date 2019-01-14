@@ -14,15 +14,16 @@ article.gallery {
     float: left;
     width: 300px;
     height: 350px;
+    text-align: center;
   }
   
 article.gallery:hover {
-    border: 1px solid #777;
+    border: 5px solid rgb(7, 7, 7);
   }
   
 article.gallery img {
-    width: 200px;
-    height: 180px;
+    width: 290px;
+    height: 200px;
   }
   
 
